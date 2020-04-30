@@ -1,6 +1,7 @@
 html {
     scroll-behavior: smooth;
   }
+  
 body{
     background-color:gainsboro;
 }
@@ -11,13 +12,13 @@ body{
     background-size:100%;
     background-repeat:no-repeat;
     
-    height:500px;
+    height:400px;
  
 }
 
 #about{
     
-    margin-top: -200px;
+    margin-top: -300px;
 }
 
 .fa{
@@ -25,8 +26,7 @@ body{
 }
 .fa:hover{
 
-  
-    color: ghostwhite;
+   color: ghostwhite;
 }
 
 .line{
@@ -37,9 +37,4 @@ body{
     border-top: 3px solid teal;
     border-bottom: 3px solid teal;
 }
-
-#header a:hover{
-        color: white;
-}
-
 
